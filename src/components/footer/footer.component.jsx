@@ -31,8 +31,8 @@ const FooterComponent = () => {
             </Nav.Link>
           </Nav.Item>
           <Nav.Item as="li" className="ml-md-auto mr-auto mr-md-0">
-            <Nav.Link href="https://twitter.com/code_wonders">
-              @codewonders
+            <Nav.Link href="https://twitter.com/2dtrung">
+              @2dtrung
             </Nav.Link>
           </Nav.Item>
         </Nav>

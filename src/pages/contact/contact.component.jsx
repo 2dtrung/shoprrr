@@ -23,30 +23,30 @@ class Contact extends React.Component {
             enthusiast, practicing minimalist, and Pop Music & Jazz lover in
             search of flow. Working with my hands to make magic happen on the
             internet. View my Projects, Articles, Resumé, Contact Me, or send me
-            an email at hellocodewonders@gmail.com.
+            an email at sductrung@gmail.com.
           </h4>
           <hr />
           <div className="col-md-7 m-auto">
             <div className="card">
               <p>
-                Email: <b>hellocodewonders@gmail.com</b>
+                Email: <b>sductrung@gmail.com</b>
               </p>
               <p>
                 Website:{' '}
                 <b>
-                  <a href="https://codewonders.dev">www.codewonders.dev</a>
+                  <a href="https://www.2dtrung.com">www.2dtrung.com</a>
                 </b>
               </p>
               <p>
                 Twitter:{' '}
                 <b>
-                  <a href="https://twitter.com/code_wonders">Twitter Profile</a>
+                  <a href="https://twitter.com/2dtrung">Twitter Profile</a>
                 </b>
               </p>
               <p>
                 LinkedIn:{' '}
                 <b>
-                  <a href="https://linkedin.com/in/codewonders">
+                  <a href="https://linkedin.com/in/2dtrung">
                     Linked Profile
                   </a>
                 </b>
