@@ -19,17 +19,13 @@ class Contact extends React.Component {
         </BannerItem>
         <Container>
           <h4 className="text-center">
-            Frontend developer and Javascript engineer, Photochromic Lens
-            enthusiast, practicing minimalist, and Pop Music & Jazz lover in
-            search of flow. Working with my hands to make magic happen on the
-            internet. View my Projects, Articles, Resumé, Contact Me, or send me
-            an email at sductrung@gmail.com.
+          Frontend Developer, I excel in crafting engaging web experiences that blend aesthetics and functionality. With expertise in HTML5, CSS3, JavaScript, Typescript and ReactJS, I have a strong foundation in modern web development. I'm also skilled in using frameworks like Next.js, Redux, TailwindCSS, SASS, Node.js and Bootstrap to create dynamic and responsive applications.
           </h4>
           <hr />
           <div className="col-md-7 m-auto">
             <div className="card">
               <p>
-                Email: <b>sductrung@gmail.com</b>
+                Feel free to reach out at: <b>sductrung@gmail.com</b>
               </p>
               <p>
                 Website:{' '}
@@ -55,7 +51,7 @@ class Contact extends React.Component {
           </div>
         </Container>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63424.99731036789!2d3.3428604204207115!3d6.513795018382699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8c5959a15ead%3A0xf6ea8f81597164e9!2sCafe%20Neo!5e0!3m2!1sen!2sng!4v1573062905684!5m2!1sen!2sng"
+          src="https://www.google.com/maps/embed"
           width="600"
           height="450"
           title="Contact Map"
